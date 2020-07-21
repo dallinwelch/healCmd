@@ -1,4 +1,4 @@
-main:com.dallin.heal.Main
+main: com.dallin.heal.Main
 name: Heal
 description: Heal command
 version: 1.0
