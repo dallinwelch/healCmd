@@ -1,0 +1,3 @@
+module heal {
+	requires spigot;
+}

@@ -1,0 +1,8 @@
+main:com.dallin.heal.Main
+name: Heal
+description: Heal command
+version: 1.0
+commands:
+  hello:
+    aliases [heal]
+    description: Heal to full health!
